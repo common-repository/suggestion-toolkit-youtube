@@ -1,0 +1,35 @@
+# Copyright (C) 2021 Sergiy Dzysyak
+# This file is distributed under the same license as the Relevant Related Posts Youtube plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Relevant Related Posts Youtube 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/related-posts-with-relevanssi-youtube\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-25T05:37:06+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: related-posts-with-relevanssi-youtube\n"
+
+#. Plugin Name of the plugin
+msgid "Relevant Related Posts Youtube"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://erlycoder.com/product/related-posts-with-relevanssi-advanced/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Related postst generated via configured search engine on your WordPress installation."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sergiy Dzysyak"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://erlycoder.com/"
+msgstr ""

@@ -1,0 +1,65 @@
+.sggtool_popup{
+   background-color: black;
+   position:absolute;
+   z-index: 1002;
+   min-height:auto;
+   width:auto;
+   border-radius: 10px 10px 10px 10px;
+}
+
+.sggtool_youtubeVideoBg {
+   background-color: rgba(155, 155, 155, 0.65);
+   position: fixed;
+   z-index: 1000;
+   top:0px;
+   left:0px;
+   min-width:100%;
+   min-height:100%;
+   overflow: hidden;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.sggtool_youtubeVideoBg.hidden {
+	display: none;
+}
+
+.sggtool_close{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	right: -30px;
+	top: -30px;
+	border-radius: 30px 30px 30px 30px;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	background-color: rgba(0, 0, 0, 1);
+	color: white;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#sggtool_youtubeVideoObject{
+	border-radius: 10px 10px 10px 10px;
+}
+
+.sggtool-post-image.youtube{
+	position: relative;
+	display: block;
+}
+
+.sggtool-post-image.youtube i{
+	position: absolute;
+	right: 5%;
+	bottom: 5%;
+	font-size: 22px;
+	color: red;
+}
+
+.sggtool-youtube{
+	
+}
